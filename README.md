@@ -8,20 +8,16 @@ This repository contains a concept preview of Athena, a school application desig
 
 ## Features
 
-- [x] Real-time school map for navigation.
-- [x] Simplified TCC section with program information.
-- [ ] Gamification system.
-- [ ] Real-time GPA calculator.
-- [ ] Integration with Microsoft Office apps.
-- [ ] Note-taking and knowledge management system.
-- [ ] Computer science tools and integrations.
-- [ ] Volunteer opportunities integration.
-- [ ] Educational resources section.
-- [ ] UAE Pass integration for user authentication.
-
-## Getting Started
-
-[Add instructions on how to set up and run the concept preview.]
+* [x] Real-time school map for navigation.
+* [x] Simplified TCC section with program information.
+* [ ] Gamification system.
+* [ ] Real-time GPA calculator.
+* [ ] Integration with Microsoft Office apps.
+* [ ] Note-taking and knowledge management system.
+* [ ] Computer science tools and integrations.
+* [ ] Volunteer opportunities integration.
+* [ ] Educational resources section.
+* [ ] UAE Pass integration for user authentication.
 
 ## Feedback and Contributions
 
@@ -29,12 +25,15 @@ We welcome feedback, suggestions, and contributions to improve Athena's concept 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE/) file for details.
 
 ## Acknowledgments
 
-[Optional: Acknowledge any third-party libraries, tools, or resources you used or people who helped with the project.]
+FlutterFlow
 
 ## Contact
 
-- GitHub: [Your GitHub Profile](https://github.com/Al-Battashi)
+* Email : syntax@3lo.me
+* Github : [Syntax](http://127.0.0.1:5000/u/9FxmuMZhIIeQ8ovs6JysT1WOXye2)
+* Twitter : [Syntax](https://twitter.com/saleh4tv)
+
