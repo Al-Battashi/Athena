@@ -8,8 +8,8 @@ This repository contains a concept preview of Athena, a school application desig
 
 ## Features
 
-* [x] Real-time school map for navigation.
-* [x] Simplified TCC section with program information.
+* [ ] Real-time school map for navigation.
+* [ ] Simplified TCC section with program information.
 * [ ] Gamification system.
 * [ ] Real-time GPA calculator.
 * [ ] Integration with Microsoft Office apps.
